@@ -5,7 +5,7 @@ namespace App\Http\Livewire;
 use Faker\Factory;
 use Livewire\Component;
 
-class CardPerson extends Component
+class CardNews extends Component
 {
     protected $faker;
 
@@ -22,17 +22,23 @@ class CardPerson extends Component
         $this->poll = $poll;
     }
 
-    public function getPeopleProperty()
+    public function getTitleProperty()
     {
-        return [
-            $this->faker->name,
-            $this->faker->name,
-            $this->faker->name,
-        ];
+        return $this->faker->text(70);
+    }
+
+    public function getDescriptionProperty()
+    {
+        return $this->faker->paragraph();
+    }
+
+    public function getAuthorProperty()
+    {
+        return $this->faker->name;
     }
 
     public function render()
     {
-        return view('livewire.cards.person');
+        return view('livewire.cards.news');
     }
 }
