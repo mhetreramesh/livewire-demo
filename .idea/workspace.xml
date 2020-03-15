@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb4cc704-6f77-4ef0-972e-7312f5a636a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/cards/person.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/cards/person.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583523788114</updated>
       <workItem from="1583523793257" duration="66000" />
-      <workItem from="1584291897828" duration="9119000" />
+      <workItem from="1584291897828" duration="9654000" />
     </task>
     <servers />
   </component>
@@ -171,9 +171,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="837" y="310" key="FileChooserDialogImpl/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1583523845062" />
-    <state x="623" y="254" width="672" height="685" key="search.everywhere.popup" timestamp="1584300895278">
+    <state x="623" y="254" width="672" height="685" key="search.everywhere.popup" timestamp="1584301199659">
       <screen x="0" y="280" width="1920" height="1080" />
     </state>
-    <state x="623" y="254" width="672" height="685" key="search.everywhere.popup/0.280.1920.1080/3000.317.1920.1080/1920.0.1080.1920@0.280.1920.1080" timestamp="1584300895278" />
+    <state x="623" y="254" width="672" height="685" key="search.everywhere.popup/0.280.1920.1080/3000.317.1920.1080/1920.0.1080.1920@0.280.1920.1080" timestamp="1584301199659" />
   </component>
 </project>
