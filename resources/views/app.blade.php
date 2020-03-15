@@ -13,7 +13,7 @@
     <div class="container-lg mx-auto px-4">
 
         <nav class="flex justify-center p-4">
-            <a class="text-3xl text-indigo-500 font-semibold font-bold" href="#">Smartscreen</a>
+            <a class="text-3xl text-gray-800 font-semibold font-bold" href="#">Smartscreen</a>
         </nav>
 
         <section class="pt-8 px-4 pb-4">
